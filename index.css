@@ -243,10 +243,10 @@ img { display: block; max-width: 100%; }
  
 .ql-tile:hover .ql-arrow { transform: translateX(5px); opacity: 1; }
  
-.quicklinks .ql-tile:nth-child(1)  { border-radius: 34px 22px 22px 22px; }
-.quicklinks .ql-tile:nth-child(4)  { border-radius: 22px 34px 22px 22px; }
-.quicklinks .ql-tile:nth-child(9)  { border-radius: 22px 22px 22px 34px; }
-.quicklinks .ql-tile:nth-child(12) { border-radius: 22px 22px 34px 22px; }
+.quicklinks .ql-tile:nth-child(1)  { border-radius: 32px 22px 22px 22px; }
+.quicklinks .ql-tile:nth-child(4)  { border-radius: 22px 32px 22px 22px; }
+.quicklinks .ql-tile:nth-child(9)  { border-radius: 22px 22px 22px 32px; }
+.quicklinks .ql-tile:nth-child(12) { border-radius: 22px 22px 32px 22px; }
 
 .bottom-section {
   display: grid !important;
