@@ -620,7 +620,7 @@ img { display: block; max-width: 100%; }
 .page-footer .links-footer__name { color: rgba(255,255,255,0.9); }
 .page-footer .links-footer__detail { color: rgba(255,255,255,0.5); }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .links-footer { display: none; }
   .page-footer { display: flex; }
 }
