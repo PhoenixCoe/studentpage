@@ -342,9 +342,9 @@ img { display: block; max-width: 100%; }
 .ol-item:hover {
   background: #66197c;
   color: #fff;
+  border-radius: 15px;
   box-shadow: 0 6px 24px rgba(102,25,124,0.28);
   transform: translateY(-2px);
-  border-radius: 15px 15px 15px 15px;
 }
 
 .ol-item svg {
